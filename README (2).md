@@ -3,7 +3,7 @@
 ## Reverse Engineering & Vulnerability Assessment Platform
 
 ```{=html}
-
+Implemented with yara rules
 ```
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-Web_App-000000?style=for-the-badge&logo=flask)
